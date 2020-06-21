@@ -1,2 +1,4 @@
 venv/
 model/
+.tox/
+._model
