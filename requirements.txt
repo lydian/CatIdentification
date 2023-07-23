@@ -1,4 +1,4 @@
 numpy
-opencv-contrib-python==4.1.0.25
+opencv-contrib-python==4.2.0.32
 requests
 ./tflite_runtime-2.1.0.post1-cp37-cp37m-linux_armv7l.whl
